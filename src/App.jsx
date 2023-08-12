@@ -10,8 +10,7 @@ import Footer from './Components/Footer/Footer'
 
 function App() {
 
-  // bg-[rgb(25,25,38)] 
-  // [rgb(0,4,15)]
+
   return (
     <div className='bg-[rgb(18,19,31)] '>
       {/*navBar */}
